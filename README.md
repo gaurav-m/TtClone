@@ -1,6 +1,13 @@
 # TtClone
 A React Native Demo Application that provides educations content in a tik-tok like infinite scroll. To MCQs and flash cards.
 
+![MCQ](https://github.com/gaurav-m/TtClone/assets/4796674/c940b6d7-0bd7-4050-9bcc-f0a3fe6903b0 | width=10)
+![MCQ_Correct](https://github.com/gaurav-m/TtClone/assets/4796674/7120be8f-36e7-47da-b8ed-177df361a06e)
+![MCQ_InCorrect](https://github.com/gaurav-m/TtClone/assets/4796674/40fe2b28-0878-4bba-a322-1ca1eaaf461f)
+![Flashcard_Q](https://github.com/gaurav-m/TtClone/assets/4796674/e2c398dc-cf20-4190-8ee4-addc25bd9c7f)
+![Flashcard_A](https://github.com/gaurav-m/TtClone/assets/4796674/40e5232c-c7fa-4810-b1ab-500f6c48ab3c)
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
